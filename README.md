@@ -1,11 +1,11 @@
-About r-testextra
-=================
+About r-testextra-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-testextra-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/RDocTaskForce/testextra
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-testextra-feedstock/blob/main/LICENSE.txt)
 
 Summary: A collection of testing enhancements and utilities. Including utilities for extracting inline test blocks from package source files.
 
